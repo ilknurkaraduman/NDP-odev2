@@ -1,0 +1,16 @@
+C:\Users\İLKNUR KARADUMAN\Documents\Visual Studio 2015\Projects\odev2\odev2\bin\Debug\odev2.exe.config
+C:\Users\İLKNUR KARADUMAN\Documents\Visual Studio 2015\Projects\odev2\odev2\obj\Debug\odev2.csprojResolveAssemblyReference.cache
+C:\Users\İLKNUR KARADUMAN\Documents\Visual Studio 2015\Projects\odev2\odev2\bin\Debug\odev2.exe
+C:\Users\İLKNUR KARADUMAN\Documents\Visual Studio 2015\Projects\odev2\odev2\bin\Debug\odev2.pdb
+C:\Users\İLKNUR KARADUMAN\Documents\Visual Studio 2015\Projects\odev2\odev2\obj\Debug\odev2.exe
+C:\Users\İLKNUR KARADUMAN\Documents\Visual Studio 2015\Projects\odev2\odev2\obj\Debug\odev2.pdb
+C:\Users\İLKNUR KARADUMAN\Documents\programlama\odev2\odev2\obj\Debug\odev2.csprojResolveAssemblyReference.cache
+C:\Users\İLKNUR KARADUMAN\Documents\programlama\odev2\odev2\obj\Debug\odev2.exe
+C:\Users\İLKNUR KARADUMAN\Documents\programlama\odev2\odev2\obj\Debug\odev2.pdb
+C:\Users\İLKNUR KARADUMAN\Documents\bsm16-17\programlama\odev2\odev2\obj\Debug\odev2.csprojAssemblyReference.cache
+C:\Users\İLKNUR KARADUMAN\Documents\bsm16-17\programlama\odev2\odev2\obj\Debug\odev2.csproj.CoreCompileInputs.cache
+C:\Users\İLKNUR KARADUMAN\Documents\bsm16-17\programlama\odev2\odev2\obj\Debug\odev2.exe
+C:\Users\İLKNUR KARADUMAN\Documents\bsm16-17\programlama\odev2\odev2\obj\Debug\odev2.pdb
+C:\Users\İLKNUR KARADUMAN\Documents\bsm16-17\programlama\odev2\odev2\bin\Debug\odev2.exe.config
+C:\Users\İLKNUR KARADUMAN\Documents\bsm16-17\programlama\odev2\odev2\bin\Debug\odev2.exe
+C:\Users\İLKNUR KARADUMAN\Documents\bsm16-17\programlama\odev2\odev2\bin\Debug\odev2.pdb
